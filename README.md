@@ -1,8 +1,7 @@
-# Qué es "Donde mueren los peces"?
+## Cómo leer este documento?
 
-# Project Goals: qué es lo central de la experiencia?
+Este GDD fue creado y mantenido utilzando la herramienta [Obsidian](https://obsidian.md/).
+Idealmente, se debe utilizar este mismo programa para leer el documento. Sin embargo, como los archivos son de tipo markdown (.md), es posible abrirlos con cualquier editor de texto.
 
-## Experience goals
-
-## Design goals
+El GDD comienza en el archivo [INTRODUCCION.md](INTRODUCCION.md)
 
