@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"2ed9b457f8fd31b4","type":"text","text":"- fecha de creacion: 13/11/2025 18:51hs\n- Version previa:","x":-160,"y":-200,"width":350,"height":120,"color":"6"},
+		{"id":"2a7351cb8d799963","x":-193,"y":-60,"width":417,"height":260,"type":"text","text":"# Palanca\nInteractuable que el jugador puede utilizar para cambiar el estado del mundo. Tienen multiples funcionalides, incluyendo:\n- Abrir puertas\n- Togglear elementos del ambiente (como plataformas)"}
+	],
+	"edges":[]
+}
