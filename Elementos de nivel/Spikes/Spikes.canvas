@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"66d43b71b7e64f34","type":"file","file":"Elementos de nivel/Spikes/attachments/Pasted image 20251113130339.png","x":280,"y":-266,"width":400,"height":372},
+		{"id":"ccedb90ff324c653","type":"file","file":"Elementos de nivel/Spikes/attachments/Pasted image 20251113130444.png","x":-700,"y":-268,"width":400,"height":377},
+		{"id":"0b5a28e08ee63034","type":"text","text":"# Spikes\n\nPinches que dañan al jugador al tocarlos.\nEl jugador puede evitarlos utilizando la habilidad de dash\n\nLos spikes pueden estar estaticos, o moverse utilizando paths\n\nDudas:\n- El dash hace que este obstaculo sea redundante. Para que esquivarlos con timing cuando podes atravesarlos sin problema?","x":-240,"y":-249,"width":460,"height":339},
+		{"id":"730b0d4999c8a27f","type":"text","text":"- fecha de creacion: 13/11/2025 18:16hs\n- Version previa: -","x":-160,"y":140,"width":320,"height":120,"color":"6"}
+	],
+	"edges":[]
+}
