@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bed712a3dc775b9b",
+        "id": "f4271637b7abc3e1",
         "type": "tabs",
         "children": [
           {
-            "id": "77e81cf7ae0822bb",
+            "id": "a51c36e671796d6b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Elementos de nivel/Lasers/Lasers.canvas",
-                "viewState": {
-                  "x": 87.86820843233022,
-                  "y": -40.20146720171192,
-                  "zoom": -0.6666666666666666
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Lasers"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -116,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elementos de nivel/Lasers/Lasers.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lasers"
+              "title": "Outgoing links"
             }
           },
           {
@@ -144,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elementos de nivel/Lasers/Lasers.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lasers"
+              "title": "Outline"
             }
           },
           {
@@ -198,15 +189,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77e81cf7ae0822bb",
+  "active": "a51c36e671796d6b",
   "lastOpenFiles": [
+    "Elementos de nivel/Spikes/Spikes.canvas",
+    "Elementos de nivel/Spikes/versiones_previas/Spikes-v1.canvas",
+    "Elementos de nivel/Lasers/Lasers.canvas",
+    "Elementos de nivel/Palancas/Palanca.canvas",
     "Elementos de nivel/Lasers/attachments/Pasted image 20251113201241.png",
     "Elementos de nivel/Lasers/attachments/Pasted image 20251113201227.png",
     "Elementos de nivel/Lasers/attachments",
-    "Elementos de nivel/Spikes/Spikes.canvas",
     "Elementos de nivel/Spikes/attachments/Pasted image 20251113201159.png",
-    "Elementos de nivel/Lasers/Lasers.canvas",
-    "Elementos de nivel/Palancas/Palanca.canvas",
     "Elementos de nivel/Spikes/attachments/Pasted image 20251113191702.png",
     "Elementos de nivel/Spikes/attachments/Pasted image 20251113191154.png",
     "Elementos de nivel/Palancas/Untitled.md",
@@ -215,7 +207,6 @@
     "Elementos de nivel/Lasers",
     "Elementos de nivel/Reglas.md",
     "Elementos de nivel/Spikes/versiones_previas",
-    "Elementos de nivel/Spikes/versiones_previas/Spikes-v1.canvas",
     "Elementos de nivel/Spikes/Spikes.md",
     "Untitled.base",
     "Elementos de nivel/Spikes/attachments/Pasted image 20251113130444.png",

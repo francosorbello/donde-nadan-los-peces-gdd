@@ -2,8 +2,8 @@
 	"nodes":[
 		{"id":"a04043fb46bbaf11","type":"text","text":"# Lasers\nLos lasers son un obstaculo que dañan al jugador al colisionar.\n\nLos lasers pueden estar permanentemente activados o (des)activarse en intervalos\n\nLos lasers pueden ser desactivados con [Palancas](Palanca.canvas)\n\nNinguna habilidad evita el daño de lasers.","x":-120,"y":-180,"width":420,"height":300},
 		{"id":"ab2fb2a4d662d0bb","type":"text","text":"- fecha de creacion: 13/11/2025 18:51hs\n- Version previa:","x":-85,"y":-320,"width":350,"height":120,"color":"6"},
-		{"id":"64d907dafb0fc91f","x":340,"y":-200,"width":400,"height":376,"type":"file","file":"Elementos de nivel/Lasers/attachments/Pasted image 20251113201227.png"},
-		{"id":"d1dd5b3df9dc1c1b","x":-560,"y":-200,"width":400,"height":376,"type":"file","file":"Elementos de nivel/Lasers/attachments/Pasted image 20251113201241.png"}
+		{"id":"64d907dafb0fc91f","type":"file","file":"Elementos de nivel/Lasers/attachments/Pasted image 20251113201227.png","x":340,"y":-200,"width":400,"height":376},
+		{"id":"d1dd5b3df9dc1c1b","type":"file","file":"Elementos de nivel/Lasers/attachments/Pasted image 20251113201241.png","x":-560,"y":-200,"width":400,"height":376}
 	],
 	"edges":[]
 }
