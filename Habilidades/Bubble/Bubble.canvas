@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"9a87d3cfcccfcb61","type":"text","text":"- fecha de creacion: 13/11/2025 18:51hs\n- Version previa:","x":-121,"y":-260,"width":350,"height":120,"color":"6"},
+		{"id":"d6f558d2cf2a7160","type":"text","text":"# Bubble\nEl jugador entra en una burbuja. En este estado, el jugador no muere al tocar [Death Zones](Elementos%20de%20nivel/Death%20Zone/Death%20Zone.canvas)\n\nAdemas, el jugador puede transicionar a otros estados a partir de este (ej: dash)","x":-146,"y":-80,"width":401,"height":220}
+	],
+	"edges":[]
+}

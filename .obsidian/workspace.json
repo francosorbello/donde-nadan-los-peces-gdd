@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f4271637b7abc3e1",
+        "id": "719ffeee7edb8118",
         "type": "tabs",
         "children": [
           {
-            "id": "a51c36e671796d6b",
+            "id": "46e087beb5d0afff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Habilidades/Bubble/Bubble.canvas",
+                "viewState": {
+                  "x": 54.5,
+                  "y": -60,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Bubble"
             }
           }
         ]
@@ -109,11 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Habilidades/Bubble/Bubble.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Bubble"
             }
           },
           {
@@ -136,12 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Habilidades/Bubble/Bubble.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Bubble"
             }
           },
           {
@@ -189,12 +198,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a51c36e671796d6b",
+  "active": "46e087beb5d0afff",
   "lastOpenFiles": [
-    "Elementos de nivel/Spikes/Spikes.canvas",
-    "Elementos de nivel/Spikes/versiones_previas/Spikes-v1.canvas",
-    "Elementos de nivel/Lasers/Lasers.canvas",
+    "Elementos de nivel/Bubble recharger/Bubble Recharger.canvas",
+    "Habilidades/Bubble/Bubble.canvas",
+    "Elementos de nivel/Death Zone/Death Zone.canvas",
+    "Elementos de nivel/Death Zone/Death Z.md",
+    "Elementos de nivel/Death Zone",
+    "Habilidades/Untitled.md",
+    "Habilidades/Bubble",
     "Elementos de nivel/Palancas/Palanca.canvas",
+    "Elementos de nivel/Lasers/Lasers.canvas",
+    "Elementos de nivel/Bubble recharger",
+    "Elementos de nivel/Spikes/Spikes.canvas",
+    "Untitled.base",
+    "Elementos de nivel/Spikes/versiones_previas/Spikes-v1.canvas",
     "Elementos de nivel/Lasers/attachments/Pasted image 20251113201241.png",
     "Elementos de nivel/Lasers/attachments/Pasted image 20251113201227.png",
     "Elementos de nivel/Lasers/attachments",
@@ -208,19 +226,15 @@
     "Elementos de nivel/Reglas.md",
     "Elementos de nivel/Spikes/versiones_previas",
     "Elementos de nivel/Spikes/Spikes.md",
-    "Untitled.base",
     "Elementos de nivel/Spikes/attachments/Pasted image 20251113130444.png",
     "Elementos de nivel/Spikes/attachments/Pasted image 20251113130339.png",
     "Elementos de nivel/Spikes/test.md",
     "Elementos de nivel/Spikes/attachments/Pasted image 20251113124538.png",
     "Elementos de nivel/Spikes/attachments",
     "Elementos de nivel/Spikes",
-    "Habilidades",
     "INTRODUCCION.md",
-    "Elementos de nivel",
     "Persistency System/Untitled.canvas",
     "README.md",
-    "Persistency System",
     "().md",
     "2025-11-12.md",
     "Excalidraw/Drawing 2025-11-12 19.00.44.excalidraw.md",

@@ -1,7 +1,10 @@
 {
 	"nodes":[
 		{"id":"2ed9b457f8fd31b4","type":"text","text":"- fecha de creacion: 13/11/2025 18:51hs\n- Version previa:","x":-160,"y":-200,"width":350,"height":120,"color":"6"},
-		{"id":"2a7351cb8d799963","x":-193,"y":-60,"width":417,"height":260,"type":"text","text":"# Palanca\nInteractuable que el jugador puede utilizar para cambiar el estado del mundo. Tienen multiples funcionalides, incluyendo:\n- Abrir puertas\n- Togglear elementos del ambiente (como plataformas)"}
+		{"id":"2a7351cb8d799963","type":"text","text":"# Palanca / Lever\nInteractuable que el jugador puede utilizar para cambiar el estado del mundo. Tienen multiples funcionalides, incluyendo:\n- Abrir puertas\n- Togglear elementos del ambiente (como plataformas)","x":-193,"y":-60,"width":417,"height":260},
+		{"id":"1b5315786c984036","x":-147,"y":280,"width":324,"height":160,"type":"text","text":"# Temp lever\nPalanca que vuelve a su estado original tras un tiempo"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"efa04514ad98a5f9","fromNode":"2a7351cb8d799963","fromSide":"bottom","toNode":"1b5315786c984036","toSide":"top"}
+	]
 }

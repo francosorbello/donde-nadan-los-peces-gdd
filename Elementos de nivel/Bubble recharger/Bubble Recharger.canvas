@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"32eef2d01ca7e98a","type":"text","text":"# Bubble recharger\n\nResetea el estado de [Bubble](Habilidades/Bubble/Bubble.canvas) cuando el jugador colisiona con ella.\n\nSi el jugador esta en otro estado (ej: dash), el jugador transiciona a estado burbuja automaticamente a [Bubble](Habilidades/Bubble/Bubble.canvas)","x":-8,"y":-68,"width":300,"height":288},
+		{"id":"cd5cd5e803977f0e","type":"text","text":"- fecha de creacion: 13/11/2025 20:21hs\n- Version previa:","x":-58,"y":-280,"width":350,"height":120,"color":"6"}
+	],
+	"edges":[]
+}
