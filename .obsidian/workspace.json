@@ -11,17 +11,10 @@
             "id": "ae9ce8ae61c95e4a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Level Design/Level Design.canvas",
-                "viewState": {
-                  "x": -261.64039715274544,
-                  "y": 24.108402125387244,
-                  "zoom": -0.35818726629614217
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Level Design"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -116,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elementos de nivel/Lasers/Lasers.canvas",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lasers"
+              "title": "Outgoing links"
             }
           },
           {
@@ -144,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elementos de nivel/Lasers/Lasers.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lasers"
+              "title": "Outline"
             }
           },
           {
@@ -197,12 +188,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a51d73da6bd223c3",
+  "active": "ae9ce8ae61c95e4a",
   "lastOpenFiles": [
-    "Level Design/Areas",
-    "INTRODUCCION.md",
+    "Level Design/Areas/Area 1.canvas",
+    "Narrativa/Narrativa.canvas",
+    "Narrativa/versiones_previas/Narrativa-v1.canvas",
     "Level Design/Level Design.canvas",
     "Elementos de nivel/Death Zone/Death Zone.canvas",
+    "Narrativa/versiones_previas",
+    "Level Design/Areas",
+    "INTRODUCCION.md",
     "Elementos de nivel/Death Zone/attachments/Pasted image 20251126130434.png",
     "Elementos de nivel/Death Zone/attachments",
     "Level Design/attachments/Pasted image 20251126125754.png",
@@ -219,16 +214,12 @@
     "Elementos de nivel/Palancas/Palanca.canvas",
     "Elementos de nivel/Railways/Railways.canvas",
     "Elementos de nivel/Spikes/Spikes.canvas",
-    "Elementos de nivel/Cages/Cages.canvas",
-    "Habilidades/Explosion/Explosion.canvas",
     "Habilidades/Explosion",
     "Elementos de nivel/Railways",
     "Habilidades/Ideas/attachments/Pasted image 20251118183054.png",
     "Habilidades/Ideas/attachments",
     "Habilidades/Ideas",
-    "Elementos de nivel/Projectiles",
     "Elementos de nivel/Cages/Untitled.md",
-    "Elementos de nivel/Cages",
     "Narrativa/Personajes/Untitled.md",
     "Narrativa/Untitled.md",
     "Elementos de nivel/Bubble recharger/attachments/Pasted image 20251114130915.png",

@@ -14,7 +14,7 @@
 		{"id":"bb485773a92d207a","type":"file","file":"Level Design/attachments/basic-tension-graph-548x300.webp","x":1680,"y":-224,"width":400,"height":219},
 		{"id":"f6afa505feb0ca76","type":"text","text":"\"Story of a level\" puede ser algo como: el jugador debe alcanzar una llave **pero** hay spikes en el camino, por lo que debe tener cuidado para progresar.\n\n**Story arcs**\n","x":1160,"y":-189,"width":443,"height":150},
 		{"id":"5664bebbe2da54aa","type":"text","text":"Pacing and framing\nForeshadowing\nStory arcs","x":1264,"y":187,"width":250,"height":113},
-		{"id":"ced4451cae68d21e","x":-589,"y":-340,"width":418,"height":60,"type":"text","text":"Doble click titulo para abrir en navegador"}
+		{"id":"ced4451cae68d21e","type":"text","text":"Doble click titulo para abrir en navegador","x":-589,"y":-340,"width":418,"height":60}
 	],
 	"edges":[
 		{"id":"57ecbc791f0fcf38","fromNode":"3e0e3e04bfeb657f","fromSide":"left","toNode":"4fc1a8f39aea6051","toSide":"right"},

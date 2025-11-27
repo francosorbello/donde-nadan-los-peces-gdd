@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"5eccb5a1494cfe28","type":"text","text":"- fecha de creacion: 27/11/2025 12:51hs\n- Version previa:","x":-160,"y":-200,"width":350,"height":120,"color":"6"},
+		{"id":"59518caabae041fb","type":"text","text":"# Area 1\n\nEsta area sirve como introducción al juego, enseñando al jugador varias mecánicas","x":-255,"y":0,"width":540,"height":316},
+		{"id":"4335ab3a9cba0bb0","x":420,"y":-40,"width":296,"height":180,"type":"text","text":"Drawning\nLost\nClaustrophobic\nNadar contracorriente\nHope in a hopless place"}
+	],
+	"edges":[]
+}

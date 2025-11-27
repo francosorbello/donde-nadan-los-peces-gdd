@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"e88ee0ea1b243ee9","type":"text","text":"# Foco\nEl foco principal de la historia es \"seguir adelante\".\n\nCada personaje representa una situacion donde este mismo se encuentra atrapado, sin posibilidad de avanzar.\nEl jugador debe ayudarles a eliminar esta traba y que continuen su camino.","x":-169,"y":-137,"width":469,"height":217},
-		{"id":"8ef8eb2753791c47","type":"text","text":"- fecha de creacion: 14/11/2025 19:31hs\n- Version previa:","x":-109,"y":-280,"width":350,"height":120,"color":"6"}
+		{"id":"8ef8eb2753791c47","type":"text","text":"- fecha de creacion: 14/11/2025 19:31hs\n- Version previa: [Narrativa](versiones_previas/Narrativa-v1.canvas)","x":-109,"y":-280,"width":350,"height":120,"color":"6"},
+		{"id":"bc60a01ab32b1864","type":"text","text":"# Ideas\n## Personajes conectados\nEl juego está separado en 3 actos. En los primeros 2 actos se presentan 2 personajes, los cuales estan conectados por una historia compartida.\nEl tercer acto trata de resolver un conflicto entre ellos.\n## Personaje entre notas\nSe narra la historia de un tercer personaje, pero sólo a traves de notas encontradas en el mundo.","x":-134,"y":120,"width":399,"height":400}
 	],
 	"edges":[]
 }
