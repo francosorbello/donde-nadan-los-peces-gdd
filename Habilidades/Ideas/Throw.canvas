@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"07b33149a7bb4665","type":"file","file":"Habilidades/Ideas/attachments/Pasted image 20251118183054.png","x":400,"y":-159,"width":480,"height":299},
+		{"id":"1c33aa298e38033e","type":"text","text":"# Throw\nHabilidad de agarrar y tirar objetos\n\nEl jugador puede calcular la trayectoria antes de tirar el objeto\n\nDependiendo del tipo de pared, el objeto rebota o colisiona","x":-120,"y":-129,"width":460,"height":240},
+		{"id":"8b8ad4db286b0139","type":"text","text":"Problema: como indico en que paredes rebota y en cuales colisiona?\n\nOpcion 1: rebota en todas las paredes y solo colisiona con objetos especiales, como paredes destrucibles o [Cages](Elementos%20de%20nivel/Cages/Cages.canvas)","x":-340,"y":200,"width":450,"height":176},
+		{"id":"cc291db0cadd26cf","type":"text","text":"# Idea: todos los items son throwables\n\nEsto incluiria llaves, npcs, bombas, similar\n\nPros: unifica todos los objetos que pertenecen al mundo en un solo sistema, similar a zelda con los jarrones, rocas y plantas","x":240,"y":258,"width":600,"height":162},
+		{"id":"01a60ed001406c92","type":"text","text":"Problema: como recupero items importantes que caen al vacio?","x":129,"y":520,"width":421,"height":85},
+		{"id":"6edf0d941760abee","x":600,"y":527,"width":373,"height":78,"type":"text","text":"Problema: este sistema limitaria un item a un room (o todos los items pueden transportarse entre rooms)"}
+	],
+	"edges":[
+		{"id":"531f9fe8bce9e002","fromNode":"cc291db0cadd26cf","fromSide":"bottom","toNode":"01a60ed001406c92","toSide":"top"},
+		{"id":"b49036fbb60d7bbe","fromNode":"cc291db0cadd26cf","fromSide":"bottom","toNode":"6edf0d941760abee","toSide":"top"}
+	]
+}

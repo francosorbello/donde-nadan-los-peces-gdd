@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"c79c1d202231aa9d","type":"text","text":"# Railway\nLíneas que transportan el player de un lado al otro. \n\nSolo accesible en los extremos. \n\nSon bidireccionales","x":-180,"y":-80,"width":418,"height":202},
+		{"id":"f716a0bc74d437b2","type":"text","text":"- fecha de creacion: 18/11/2025 18:30hs\n- Version previa:","x":-146,"y":-260,"width":350,"height":120,"color":"6"},
+		{"id":"d1da8fd1512dbe18","x":-192,"y":180,"width":430,"height":123,"type":"text","text":"# Ideas\nEl jugador puede activar 2 extremos para conectarlas, cambiando la trayectoria segun qué extremo elige"}
+	],
+	"edges":[]
+}

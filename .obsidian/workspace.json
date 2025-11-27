@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "719ffeee7edb8118",
+        "id": "47b3b6366d98351c",
         "type": "tabs",
         "children": [
           {
-            "id": "46e087beb5d0afff",
+            "id": "ae9ce8ae61c95e4a",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Habilidades/Bubble/Bubble.canvas",
+                "file": "Level Design/Level Design.canvas",
                 "viewState": {
-                  "x": 54.5,
-                  "y": -60,
-                  "zoom": 0
+                  "x": -261.64039715274544,
+                  "y": 24.108402125387244,
+                  "zoom": -0.35818726629614217
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Bubble"
+              "title": "Level Design"
             }
           }
         ]
@@ -116,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Habilidades/Bubble/Bubble.canvas",
+                "file": "Elementos de nivel/Lasers/Lasers.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bubble"
+              "title": "Outgoing links from Lasers"
             }
           },
           {
@@ -144,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Habilidades/Bubble/Bubble.canvas",
+                "file": "Elementos de nivel/Lasers/Lasers.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bubble"
+              "title": "Outline of Lasers"
             }
           },
           {
@@ -194,46 +194,54 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46e087beb5d0afff",
+  "active": "a51d73da6bd223c3",
   "lastOpenFiles": [
-    "Elementos de nivel/Bubble recharger/Bubble Recharger.canvas",
-    "Habilidades/Bubble/Bubble.canvas",
+    "Level Design/Areas",
+    "INTRODUCCION.md",
+    "Level Design/Level Design.canvas",
     "Elementos de nivel/Death Zone/Death Zone.canvas",
-    "Elementos de nivel/Death Zone/Death Z.md",
-    "Elementos de nivel/Death Zone",
-    "Habilidades/Untitled.md",
-    "Habilidades/Bubble",
-    "Elementos de nivel/Palancas/Palanca.canvas",
+    "Elementos de nivel/Death Zone/attachments/Pasted image 20251126130434.png",
+    "Elementos de nivel/Death Zone/attachments",
+    "Level Design/attachments/Pasted image 20251126125754.png",
+    "Level Design/attachments/basic-tension-graph-548x300.webp",
+    "Habilidades/Bubble/Bubble.canvas",
+    "Level Design/attachments/Pasted image 20251126124432.png",
+    "Level Design/attachments/Pasted image 20251126124348.png",
+    "Level Design/attachments",
+    "Level Design/Untitled.base",
+    "Level Design/Untitled.md",
     "Elementos de nivel/Lasers/Lasers.canvas",
-    "Elementos de nivel/Bubble recharger",
+    "Level Design",
+    "Elementos de nivel/Projectiles/Projectile.canvas",
+    "Elementos de nivel/Palancas/Palanca.canvas",
+    "Elementos de nivel/Railways/Railways.canvas",
     "Elementos de nivel/Spikes/Spikes.canvas",
-    "Untitled.base",
-    "Elementos de nivel/Spikes/versiones_previas/Spikes-v1.canvas",
+    "Elementos de nivel/Cages/Cages.canvas",
+    "Habilidades/Explosion/Explosion.canvas",
+    "Habilidades/Explosion",
+    "Elementos de nivel/Railways",
+    "Habilidades/Ideas/attachments/Pasted image 20251118183054.png",
+    "Habilidades/Ideas/attachments",
+    "Habilidades/Ideas",
+    "Elementos de nivel/Projectiles",
+    "Elementos de nivel/Cages/Untitled.md",
+    "Elementos de nivel/Cages",
+    "Narrativa/Personajes/Untitled.md",
+    "Narrativa/Untitled.md",
+    "Elementos de nivel/Bubble recharger/attachments/Pasted image 20251114130915.png",
+    "Elementos de nivel/Bubble recharger/attachments/Pasted image 20251114130900.png",
+    "Elementos de nivel/Death Zone/Death Z.md",
+    "Habilidades/Untitled.md",
     "Elementos de nivel/Lasers/attachments/Pasted image 20251113201241.png",
     "Elementos de nivel/Lasers/attachments/Pasted image 20251113201227.png",
-    "Elementos de nivel/Lasers/attachments",
-    "Elementos de nivel/Spikes/attachments/Pasted image 20251113201159.png",
-    "Elementos de nivel/Spikes/attachments/Pasted image 20251113191702.png",
-    "Elementos de nivel/Spikes/attachments/Pasted image 20251113191154.png",
     "Elementos de nivel/Palancas/Untitled.md",
-    "Elementos de nivel/Palancas",
     "Elementos de nivel/Lasers/Untitled.md",
-    "Elementos de nivel/Lasers",
     "Elementos de nivel/Reglas.md",
-    "Elementos de nivel/Spikes/versiones_previas",
     "Elementos de nivel/Spikes/Spikes.md",
-    "Elementos de nivel/Spikes/attachments/Pasted image 20251113130444.png",
-    "Elementos de nivel/Spikes/attachments/Pasted image 20251113130339.png",
     "Elementos de nivel/Spikes/test.md",
-    "Elementos de nivel/Spikes/attachments/Pasted image 20251113124538.png",
-    "Elementos de nivel/Spikes/attachments",
-    "Elementos de nivel/Spikes",
-    "INTRODUCCION.md",
-    "Persistency System/Untitled.canvas",
     "README.md",
     "().md",
     "2025-11-12.md",

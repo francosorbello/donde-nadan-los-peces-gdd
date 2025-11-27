@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"eef5dc1fa2ef5d4d","type":"text","text":"- fecha de creacion: 14/11/2025 13:04hs\n- Version previa:","x":-200,"y":-360,"width":350,"height":120,"color":"6"},
+		{"id":"9bcefb346886af94","type":"text","text":"# Oxygen bar\n\nEl jugador tiene una barra de oxigeno que limita la cantidad de acciones que puede realizar al entrar/salir de bubble state\n\nEl jugador tiene 3 cargas de oxigeno, que se gastan al entrar en bubble state o al usar alguna habilidad.\n\nEl oxigeno se recarga al tocar suelo de nuevo\nEl oxigeno no se recarga en plataformas","x":-250,"y":-220,"width":450,"height":300}
+	],
+	"edges":[]
+}

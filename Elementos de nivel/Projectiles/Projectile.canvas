@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4fe7b1636b83977e","type":"text","text":"- fecha de creacion: 18/11/2025 13:30hs\n- Version previa:","x":-160,"y":-160,"width":350,"height":120,"color":"6"},
+		{"id":"6f7e3a10234026f1","type":"text","text":"# Projectile\n\nProjectil que daña al jugador al colisionar\n\nGenera explosiones que puede romper objetos destructibles","x":-171,"y":0,"width":391,"height":180},
+		{"id":"d91e74180cb2025b","type":"text","text":"Idea:\nusar la explosion del projectil para destruir objetos como [Cages](Elementos%20de%20nivel/Cages/Cages.canvas) o paredes destructibles\n\nProblema: \ncomo modifico la trayectoria?","x":-264,"y":260,"width":484,"height":167},
+		{"id":"21d8bc21581539d1","type":"text","text":"# Projectiles teledirigidos\n\nLos projectiles van teledirigidos al player, quien puede esquivarlos entrando en [Bubble](Habilidades/Bubble/Bubble.canvas) state\n\nProblema: medio tedioso estar siendo atacado todo el tiempo.\n\nSolucion: el objeto que dispara el proyectil solo se activa si el jugador esta dentro de su area de vision\n\n","x":-560,"y":620,"width":463,"height":260}
+	],
+	"edges":[
+		{"id":"d4c261422e6f3aef","fromNode":"d91e74180cb2025b","fromSide":"bottom","toNode":"21d8bc21581539d1","toSide":"top"}
+	]
+}

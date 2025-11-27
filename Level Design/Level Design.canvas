@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"f4627cd5b44eeab6","type":"text","text":"# Limitaciones\n\n- Cada nivel dura entre 30s y 1 min","x":80,"y":-100,"width":299,"height":140},
+		{"id":"0dde94f5e2a82c13","type":"link","url":"https://docs.google.com/spreadsheets/d/1nHRrfcozJx1RpEh38o3Xon3m4dB6uxj9PMc-VwOdYJ4/edit?usp=sharing","x":-760,"y":-240,"width":760,"height":500},
+		{"id":"31739a18ad01a0e8","type":"file","file":"Level Design/attachments/Pasted image 20251126124348.png","x":520,"y":-154,"width":581,"height":248},
+		{"id":"4fc1a8f39aea6051","type":"file","file":"Level Design/attachments/Pasted image 20251126124432.png","x":600,"y":280,"width":306,"height":400},
+		{"id":"3e0e3e04bfeb657f","type":"text","text":"Si bien el juego esta divido en rooms, un nivel puede consistir en mas de un room\n\nTener en cuenta para lograr algo como esto, con zonas mas dificiles y otras mas faciles","x":951,"y":370,"width":300,"height":220},
+		{"id":"e3534a2ad082bdf5","type":"text","text":"\"Story of an area\" esta relacionado a la [Narrativa](Narrativa/Narrativa.canvas) particular de una zona del juego. Cada \"area\" se enfoca en la historia particular de un personaje","x":1160,"y":6,"width":467,"height":88},
+		{"id":"6e392cc49d1f6b5f","type":"text","text":"En mi juego:\n- Areas -> Levels\n- Levels -> Rooms","x":678,"y":-320,"width":265,"height":120},
+		{"id":"f755d2b0fd5d2e64","type":"text","text":"- fecha de creacion: 26/11/2025 12:51hs\n- Version previa:","x":55,"y":-260,"width":350,"height":120,"color":"6"},
+		{"id":"09f45aa8bc5e0b40","type":"text","text":"Pensar un nivel con la estructura de una historia","x":1755,"y":-320,"width":250,"height":60},
+		{"id":"b4cea877d606718b","type":"text","text":"Ejemplo en Celeste: el jugador debe atravesar un campo de spikes usando unos bloques que caen a los segundos de colisionar con ellos.\n\nLa historia del nivel es el proceso de sobrevivir esta situacion dificil. Los bloques que caen a los pinches, generan tension, con la narrativa de que el jugador está usando elementos frágiles del entorno para sobrepasar el obstaculo","x":1717,"y":50,"width":726,"height":190},
+		{"id":"ac9a3fd91605260f","type":"file","file":"Level Design/attachments/Pasted image 20251126125754.png","x":2140,"y":288,"width":400,"height":164},
+		{"id":"bb485773a92d207a","type":"file","file":"Level Design/attachments/basic-tension-graph-548x300.webp","x":1680,"y":-224,"width":400,"height":219},
+		{"id":"f6afa505feb0ca76","type":"text","text":"\"Story of a level\" puede ser algo como: el jugador debe alcanzar una llave **pero** hay spikes en el camino, por lo que debe tener cuidado para progresar.\n\n**Story arcs**\n","x":1160,"y":-189,"width":443,"height":150},
+		{"id":"5664bebbe2da54aa","type":"text","text":"Pacing and framing\nForeshadowing\nStory arcs","x":1264,"y":187,"width":250,"height":113},
+		{"id":"ced4451cae68d21e","x":-589,"y":-340,"width":418,"height":60,"type":"text","text":"Doble click titulo para abrir en navegador"}
+	],
+	"edges":[
+		{"id":"57ecbc791f0fcf38","fromNode":"3e0e3e04bfeb657f","fromSide":"left","toNode":"4fc1a8f39aea6051","toSide":"right"},
+		{"id":"aa4609bf9d458107","fromNode":"f6afa505feb0ca76","fromSide":"left","toNode":"31739a18ad01a0e8","toSide":"right"},
+		{"id":"31a0e5a324b455c1","fromNode":"e3534a2ad082bdf5","fromSide":"left","toNode":"31739a18ad01a0e8","toSide":"right"},
+		{"id":"94bb0e03fa85c9f8","fromNode":"6e392cc49d1f6b5f","fromSide":"bottom","toNode":"31739a18ad01a0e8","toSide":"top"},
+		{"id":"cfd0936111b9f547","fromNode":"09f45aa8bc5e0b40","fromSide":"bottom","toNode":"bb485773a92d207a","toSide":"top"},
+		{"id":"6658795e636db7e7","fromNode":"b4cea877d606718b","fromSide":"bottom","toNode":"ac9a3fd91605260f","toSide":"left"},
+		{"id":"7a3c1d227a36bb4e","fromNode":"b4cea877d606718b","fromSide":"left","toNode":"f6afa505feb0ca76","toSide":"right"},
+		{"id":"d9010b8b26aa43d1","fromNode":"bb485773a92d207a","fromSide":"left","toNode":"f6afa505feb0ca76","toSide":"right"},
+		{"id":"6f3ed9338437d1c2","fromNode":"ced4451cae68d21e","fromSide":"bottom","toNode":"0dde94f5e2a82c13","toSide":"top"}
+	]
+}

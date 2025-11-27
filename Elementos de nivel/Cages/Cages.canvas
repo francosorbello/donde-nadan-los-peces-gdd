@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"e149f23ca35a307e","type":"text","text":"# Cage\n\nRevela un objeto al ser destruido","x":-50,"y":-197,"width":250,"height":157},
+		{"id":"e0d58681bc881b75","type":"text","text":"- fecha de creacion: 18/11/2025 13:30hs\n- Version previa:","x":-100,"y":-360,"width":350,"height":120,"color":"6"},
+		{"id":"c3df0c43215056c1","x":266,"y":-172,"width":437,"height":108,"type":"text","text":"El objetivo es generar situaciones donde el jugador debe encontrar una manera de romper la cage para poder progresar (ej: una puerta cerrada, la llave esta dentro de la cage)"},
+		{"id":"f0c88ad2800de8fb","type":"text","text":"Problema: la habilidad de [Explosion](Habilidades/Explosion/Explosion.canvas) hace que este objeto sea redundante. Como mucho sirve para lockear puertas hasta que obtenes la habilidad, pero las paredes destructibles ya cumplen esa funcion","x":294,"y":-20,"width":381,"height":160}
+	],
+	"edges":[
+		{"id":"230e399de535b8ab","fromNode":"e149f23ca35a307e","fromSide":"right","toNode":"c3df0c43215056c1","toSide":"left"},
+		{"id":"5caef9e709ec952a","fromNode":"c3df0c43215056c1","fromSide":"bottom","toNode":"f0c88ad2800de8fb","toSide":"top"}
+	]
+}

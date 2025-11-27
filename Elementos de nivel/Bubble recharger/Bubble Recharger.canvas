@@ -1,7 +1,11 @@
 {
 	"nodes":[
-		{"id":"32eef2d01ca7e98a","type":"text","text":"# Bubble recharger\n\nResetea el estado de [Bubble](Habilidades/Bubble/Bubble.canvas) cuando el jugador colisiona con ella.\n\nSi el jugador esta en otro estado (ej: dash), el jugador transiciona a estado burbuja automaticamente a [Bubble](Habilidades/Bubble/Bubble.canvas)","x":-8,"y":-68,"width":300,"height":288},
-		{"id":"cd5cd5e803977f0e","type":"text","text":"- fecha de creacion: 13/11/2025 20:21hs\n- Version previa:","x":-58,"y":-280,"width":350,"height":120,"color":"6"}
+		{"id":"cd5cd5e803977f0e","type":"text","text":"- fecha de creacion: 13/11/2025 20:21hs\n- Version previa:","x":-58,"y":-280,"width":350,"height":120,"color":"6"},
+		{"id":"32eef2d01ca7e98a","type":"text","text":"# Bubble recharger\n\nResetea el estado de [Bubble](Habilidades/Bubble/Bubble.canvas) cuando el jugador colisiona con ella.\n\nSi el jugador esta en otro estado (ej: dash), el jugador transiciona a estado burbuja automaticamente a [Bubble](Habilidades/Bubble/Bubble.canvas)","x":-99,"y":-120,"width":433,"height":288},
+		{"id":"2d9426b4b18534ae","type":"file","file":"Elementos de nivel/Bubble recharger/attachments/Pasted image 20251114130900.png","x":-520,"y":-140,"width":400,"height":374},
+		{"id":"cfcf1013199998c0","type":"file","file":"Elementos de nivel/Bubble recharger/attachments/Pasted image 20251114130915.png","x":380,"y":-120,"width":400,"height":374},
+		{"id":"b8a351945b2d0a9d","type":"text","text":"El objetivo es crear niveles mas largos, con varios stages en una sola habitacion","x":-50,"y":206,"width":342,"height":96},
+		{"id":"02f7a07079042998","x":-99,"y":360,"width":414,"height":99,"type":"text","text":"Dudas:\n- Este elemento deberia recargar [Oxygen bar](Habilidades/Oxygen%20bar/Oxygen%20bar.canvas)?"}
 	],
 	"edges":[]
 }
