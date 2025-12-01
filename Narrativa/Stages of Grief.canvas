@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"7b9c03d0ae5e703e","type":"text","text":"# 1. Denial\n\nIn this stage, individuals believe the precipitating event is somehow mistaken, and cling to a false, preferable reality. Some may also isolate themselves, avoiding others who may have accepted what is happening.\n","x":-740,"y":-340,"width":427,"height":243},
+		{"id":"f5439624bbe628f4","type":"text","text":"# 2. Anger\n\nWhen the individual recognizes that denial cannot continue, they become frustrated, especially at proximate individuals. Certain psychological responses of a person undergoing this phase would be: \"Why me? It's not fair!\"; \"How can this happen to me?\"; \"Who is to blame?\"; \"Why would this happen?\". Some may lash out at loved ones and other family.","x":-740,"y":0,"width":427,"height":280},
+		{"id":"5a15de02cd1b2efc","type":"text","text":"# 3. Bargaining\n\nhe third stage involves the hope that the individual can avoid a cause of grief. Examples include the terminally ill person who \"negotiates with God\" to attend a daughter's wedding, an attempt to bargain for more time to live in exchange for a reformed lifestyle or a phrase such as \"If I could trade their life for mine\".","x":-740,"y":360,"width":427,"height":300},
+		{"id":"aa928ca51ceadb9f","type":"text","text":"# 4. Depression\n\n\"I'm so sad, why bother with anything?\"; \"I'm going to die soon, so what's the point?\"; \"I miss my loved one; why go on?\" During the fourth stage, the individual despairs at the recognition of their mortality. In this state, the individual may become silent, refuse visitors and spend much of the time mournful and sullen.","x":-240,"y":387,"width":427,"height":247},
+		{"id":"df30c93551c7455b","type":"text","text":"# 5. Acceptance\n\nIt's going to be okay.\"; \"I can't fight it; I may as well prepare for it.\" In this last stage, individuals embrace mortality or inevitable future, or that of a loved one, or other tragic event. ","x":309,"y":387,"width":491,"height":247},
+		{"id":"49a9213ebe9493bc","x":489,"y":-486,"width":311,"height":778,"type":"file","file":"Narrativa/attachments/grief-stage-1.webp"},
+		{"id":"66c59c38dfa3f329","type":"file","file":"Narrativa/attachments/five-stages-grief-2158295291.avif","x":-280,"y":-198,"width":706,"height":397}
+	],
+	"edges":[
+		{"id":"1f08ee67731590d4","fromNode":"7b9c03d0ae5e703e","fromSide":"bottom","toNode":"f5439624bbe628f4","toSide":"top"},
+		{"id":"9153af39047803b8","fromNode":"f5439624bbe628f4","fromSide":"bottom","toNode":"5a15de02cd1b2efc","toSide":"top"},
+		{"id":"a9d34b3df645a085","fromNode":"5a15de02cd1b2efc","fromSide":"right","toNode":"aa928ca51ceadb9f","toSide":"left"},
+		{"id":"01bf29e227b80c98","fromNode":"aa928ca51ceadb9f","fromSide":"right","toNode":"df30c93551c7455b","toSide":"left"}
+	]
+}

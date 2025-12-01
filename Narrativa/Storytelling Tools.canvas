@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"2aca7c180bad6706","type":"file","file":"Narrativa/attachments/Pasted image 20251201114752.png","x":-840,"y":111,"width":697,"height":380},
+		{"id":"d23fa07003c4b227","type":"text","text":"# Motivations\n\nLos personajes tienen 2 tipos:\n- External motivation: desire to change something on the world\n\t- Ej: become rich, travel, get friends\n- Internal motivation: desire to change something inside.\n\t- Usually overcoming an (emotional) block, like loneliness or grief.\n\t- It can also be learning something new (that they might know already)\n\nUn personaje puede fallar una y tener éxito en otra. Ej: en romeo y julieta los pjs tienen exito en sus **external motivations**, pero fallan sus **internal motivations**","x":-1460,"y":80,"width":537,"height":441},
+		{"id":"e4656745a94f4993","type":"text","text":"# Plot structure\n\nSeries of events that bring **change** to the world and/or characters.\n\n## Start before your big events\n\nEl video recomienda empezar la historia **antes** de que sucedan eventos importantes.\n\nEs importante generar empatia en los personajes, estableciendo sus motivaciones internas y externas\n\n## The inciting incident\n\nEvento que añade un antagonista, enemigos o un riesgo que rompe la situacion normal.","x":-24,"y":71,"width":591,"height":460},
+		{"id":"77b02ba6ce927a45","type":"text","text":"A story is about **change**","x":-616,"y":-40,"width":250,"height":50},
+		{"id":"21cc622b20f6b394","type":"text","text":"Video: https://youtu.be/8fXE-E1hjKk?si=xyqeREFGKCd5wYZv","x":-240,"y":-55,"width":362,"height":65},
+		{"id":"54b6e5858b3cc17f","type":"file","file":"Narrativa/attachments/Pasted image 20251201114621.png","x":-1323,"y":1020,"width":399,"height":158},
+		{"id":"a25ad1a9e481983a","type":"file","file":"Narrativa/attachments/Pasted image 20251201114542.png","x":-1021,"y":680,"width":400,"height":191},
+		{"id":"454648a53819caf0","type":"file","file":"Narrativa/attachments/Pasted image 20251201114645.png","x":-794,"y":1016,"width":400,"height":162},
+		{"id":"25f6ff6d5aeb38c0","type":"file","file":"Narrativa/attachments/Pasted image 20251201114708.png","x":-280,"y":680,"width":400,"height":169}
+	],
+	"edges":[
+		{"id":"ff03ba1d7365651e","fromNode":"d23fa07003c4b227","fromSide":"right","toNode":"2aca7c180bad6706","toSide":"left"},
+		{"id":"a09cc49b388f5579","fromNode":"e4656745a94f4993","fromSide":"left","toNode":"2aca7c180bad6706","toSide":"right"},
+		{"id":"bfa07aac91354eee","fromNode":"a25ad1a9e481983a","fromSide":"top","toNode":"2aca7c180bad6706","toSide":"bottom"},
+		{"id":"5bab0512c995fe2a","fromNode":"54b6e5858b3cc17f","fromSide":"top","toNode":"a25ad1a9e481983a","toSide":"bottom"},
+		{"id":"938dc2bb23ed03b0","fromNode":"454648a53819caf0","fromSide":"top","toNode":"a25ad1a9e481983a","toSide":"bottom"},
+		{"id":"cc38c81bc3374225","fromNode":"25f6ff6d5aeb38c0","fromSide":"top","toNode":"2aca7c180bad6706","toSide":"bottom"}
+	]
+}

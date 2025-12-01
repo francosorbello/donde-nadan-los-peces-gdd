@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "47b3b6366d98351c",
+        "id": "ff31a8c7bea3d6f7",
         "type": "tabs",
         "children": [
           {
-            "id": "ae9ce8ae61c95e4a",
+            "id": "878a1a20d5c99c66",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Narrativa/Stages of Grief.canvas",
+                "viewState": {
+                  "x": -10.081614967616133,
+                  "y": 174.56549098041992,
+                  "zoom": -1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Stages of Grief"
             }
           }
         ]
@@ -109,11 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Level Design/Areas/Area 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Area 1"
             }
           },
           {
@@ -136,12 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Level Design/Areas/Area 1.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Area 1"
             }
           },
           {
@@ -188,12 +197,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae9ce8ae61c95e4a",
+  "active": "878a1a20d5c99c66",
   "lastOpenFiles": [
-    "Level Design/Areas/Area 1.canvas",
+    "Narrativa/attachments/grief-stage-1.webp",
+    "Narrativa/attachments/five-stages-grief-2158295291.avif",
+    "Narrativa/attachments/Kübler_Ross's_stages_of_grief.svg.png",
+    "Narrativa/Stages of Grief.canvas",
+    "Narrativa/Stages of g.md",
     "Narrativa/Narrativa.canvas",
-    "Narrativa/versiones_previas/Narrativa-v1.canvas",
+    "Narrativa/Storytelling Tools.canvas",
+    "Level Design/Areas/Area 1.canvas",
+    "Narrativa/attachments/Pasted image 20251201114752.png",
+    "Narrativa/attachments/Pasted image 20251201114708.png",
+    "Narrativa/attachments/Pasted image 20251201114645.png",
+    "Narrativa/attachments/Pasted image 20251201114621.png",
+    "Narrativa/attachments/Pasted image 20251201114542.png",
+    "Narrativa/attachments",
+    "Narrativa/Motivations.md",
     "Level Design/Level Design.canvas",
+    "Narrativa/versiones_previas/Narrativa-v1.canvas",
     "Elementos de nivel/Death Zone/Death Zone.canvas",
     "Narrativa/versiones_previas",
     "Level Design/Areas",
@@ -203,31 +225,19 @@
     "Level Design/attachments/Pasted image 20251126125754.png",
     "Level Design/attachments/basic-tension-graph-548x300.webp",
     "Habilidades/Bubble/Bubble.canvas",
-    "Level Design/attachments/Pasted image 20251126124432.png",
-    "Level Design/attachments/Pasted image 20251126124348.png",
     "Level Design/attachments",
     "Level Design/Untitled.base",
     "Level Design/Untitled.md",
     "Elementos de nivel/Lasers/Lasers.canvas",
     "Level Design",
     "Elementos de nivel/Projectiles/Projectile.canvas",
-    "Elementos de nivel/Palancas/Palanca.canvas",
-    "Elementos de nivel/Railways/Railways.canvas",
-    "Elementos de nivel/Spikes/Spikes.canvas",
     "Habilidades/Explosion",
     "Elementos de nivel/Railways",
-    "Habilidades/Ideas/attachments/Pasted image 20251118183054.png",
     "Habilidades/Ideas/attachments",
-    "Habilidades/Ideas",
     "Elementos de nivel/Cages/Untitled.md",
     "Narrativa/Personajes/Untitled.md",
-    "Narrativa/Untitled.md",
-    "Elementos de nivel/Bubble recharger/attachments/Pasted image 20251114130915.png",
-    "Elementos de nivel/Bubble recharger/attachments/Pasted image 20251114130900.png",
     "Elementos de nivel/Death Zone/Death Z.md",
     "Habilidades/Untitled.md",
-    "Elementos de nivel/Lasers/attachments/Pasted image 20251113201241.png",
-    "Elementos de nivel/Lasers/attachments/Pasted image 20251113201227.png",
     "Elementos de nivel/Palancas/Untitled.md",
     "Elementos de nivel/Lasers/Untitled.md",
     "Elementos de nivel/Reglas.md",
